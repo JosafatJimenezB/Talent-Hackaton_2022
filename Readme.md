@@ -11,7 +11,8 @@ Necesidad de una plataforma de descarga de donde se obtendrá un archivo con los
 Para este proyecto se realizará una webApp
 
 
-
+## Wireframe
+![wireframe-1](New%20Wireframe%201.png);
 
 
 ###### © The Colossal Pythons 2022 :mexico:
