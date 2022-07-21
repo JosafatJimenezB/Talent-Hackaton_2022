@@ -28,6 +28,10 @@ Decidimos hacerlo así de simple para que cualquier persona que necesite ver est
 - Heroku
 
 
+## Estudió de casos
+Para profundizar un poco más sobre cómo se va usar la plataforma nos dimos a la tarea de crear una protopersona para poder simular un perfil el cual podría interacturar con nuestra aplicación. 
+![protopersona](Plantilla_proto-persona_Community_2_1_of_1.png) 
+
 
 ## Wireframe
 ![wireframe-1](New%20Wireframe%201.png)
