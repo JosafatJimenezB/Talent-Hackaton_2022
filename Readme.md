@@ -30,7 +30,7 @@ Decidimos hacerlo así de simple para que cualquier persona que necesite ver est
 
 ## Estudió de casos
 Para profundizar un poco más sobre cómo se va usar la plataforma nos dimos a la tarea de crear una protopersona para poder simular un perfil el cual podría interacturar con nuestra aplicación. 
-En el siguiente link se puede visualizar el [mapa de empata](https://miro.com/app/board/uXjVOk_4f9A=/?share_link_id=305211617858) 
+En el siguiente link se puede visualizar el [mapa de empatía](https://miro.com/app/board/uXjVOk_4f9A=/?share_link_id=305211617858) 
 
 ![protopersona](Plantilla_proto-persona_Community_2_1_of_1.png) 
 
