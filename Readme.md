@@ -1,5 +1,5 @@
-# Talent Hackaton 2022 
-## Track astrazeneca
+![Talent Hackaton 2022 banner](https://raw.githubusercontent.com/JosafatJimenezB/assets-paginas/main/th-logo-alt-c-l-700.png) 
+# Talent Hackaton 2022 - Track astrazeneca
 ____
 
 ## Problematica 
