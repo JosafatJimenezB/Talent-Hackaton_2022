@@ -2,7 +2,7 @@
 ## Track astrazeneca
 ____
 
-## Problematica
+## Problematica 
 
 Necesidad de una plataforma de descarga de donde se obtendrá un archivo con los resultados de estudios COVID-19 para la fabricación de vacunas y el cuál será mapeado a una base de datos, por medio de una aplicación web se construirán servicios para obtener estos datos en los cuáles existe la locación en la cual se hizo el estudio y utilizando una API de mapas (libre a la que el participante quiera escoger) se registrará.
 
@@ -20,11 +20,20 @@ Decidimos hacerlo así de simple para que cualquier persona que necesite ver est
 
 **Backend**
 - Java
+- Spring boot
+
+**Despliegue**
+- Azure static WebApps
+- Azure for mysql
+- Heroku
 
 
 
 ## Wireframe
-![wireframe-1](New%20Wireframe%201.png);
+![wireframe-1](New%20Wireframe%201.png)
+
+
+## Diseño UI
 
 
 ###### © The Colossal Pythons 2022 :mexico:
