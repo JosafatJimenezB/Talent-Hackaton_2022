@@ -34,6 +34,9 @@ Decidimos hacerlo así de simple para que cualquier persona que necesite ver est
 
 
 ## Diseño UI
+![UI](20220720_224656_0000.png) 
+![UI](20220720_224656_0001.png)
+![UI](20220720_224656_0002.png)
 
 
 ###### © The Colossal Pythons 2022 :mexico:
